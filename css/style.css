@@ -23257,7 +23257,7 @@ html.tablet .ui-to-top {
 
 @media(min-width:768px) {
     .tabs-custom.tabs-line .nav-tabs {
-        border: 0 solid #ededed
+        border: 0 solid #ededed;
     }
     .tabs-custom.tabs-line .nav-tabs .nav-link {
         position: relative;
@@ -23291,7 +23291,8 @@ html.tablet .ui-to-top {
         flex-direction: row
     }
     .tabs-horizontal.tabs-line .nav-tabs {
-        border-bottom-width: 1px
+        border-bottom-width: 1px;
+        width: 140vh;
     }
     .tabs-horizontal.tabs-line .nav-tabs .nav-item {
         display: inline-block
