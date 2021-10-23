@@ -30724,3 +30724,10 @@ html:not(.ie-11):not(.ios) .parallax-disabled {
 .layout-panel-controls {
     margin-top: 20px
 }
+
+
+@media(max-width: 360px){
+    .swiper-wrapper .swiper-slide .swiper-slide-caption .container-wide .row h3.typed-text-wrap {
+        font-size: 1.2rem !important;
+    }
+}
