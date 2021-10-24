@@ -31834,3 +31834,13 @@ li{
 .license span{
     color: white;
 }
+.logo-inverse {
+  width: 50px;
+}
+
+@media(min-width: 1000px) {
+  .logo-inverse {
+  width: 70px;
+}
+}
+
