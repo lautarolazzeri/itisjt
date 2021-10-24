@@ -31826,4 +31826,11 @@ li{
     display: block;
   }
 
-
+.license {
+    text-align: center;
+    margin-top: 5%;
+    color: grey;
+}
+.license span{
+    color: white;
+}
