@@ -30718,3 +30718,8 @@ html.lt-ie-10 .ie-panel {
         width: 70px
     }
 }
+
+.social-links a:hover i{
+    color: #000;
+    font-weight: 600;
+}
