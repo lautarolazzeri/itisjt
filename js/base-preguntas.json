@@ -1,0 +1,71 @@
+[
+    {
+        "categoria": "Malwares",
+        "pregunta": "¿Cuál de estos NO es un malware?",
+        "respuesta": "Antivirus",
+        "incorrecta1": "Spyware",
+        "incorrecta2": "Troyano",
+        "incorrecta3": "Keylogger",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Malwares",
+        "pregunta": "¿Cuál de los siguientes malwares lee tu teclado?",
+        "respuesta": "Keylogger",
+        "incorrecta1": "Spyware",
+        "incorrecta2": "Troyano",
+        "incorrecta3": "Gusano",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Prevención",
+        "pregunta": "¿Que debo hacer evitar los malwares?",
+        "respuesta": "Todas son correctas",
+        "incorrecta1": "Instalar un antivirus",
+        "incorrecta2": "Fijarme las extensiones de los archivos",
+        "incorrecta3": "Ninguna es correcta",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Cifrados",
+        "pregunta": "¿Cuál es la función de cifrar?",
+        "respuesta": "Codificar un texto para mantenerlo seguro",
+        "incorrecta1": "Crear un virus a partir de un texto",
+        "incorrecta2": "Todas son correctas",
+        "incorrecta3": "Todas son incorrectas",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Malwares",
+        "pregunta": "¿Que hace el virus de gusano?",
+        "respuesta": "Se propaga por toda la computadora para infectarla por completo",
+        "incorrecta1": "Copia todos tus archivos para venderlos",
+        "incorrecta2": "Desinstala el paquete Office",
+        "incorrecta3": "Apaga tu PC para siempre",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Cifrado",
+        "pregunta": "¿Cuál es el cifrado en el que se usa la misma clave para descifrar y cifrar?",
+        "respuesta": "Cifrado simétrico",
+        "incorrecta1": "Cifrado Asimétrico",
+        "incorrecta2": "Cifrado secreto",
+        "incorrecta3": "Spyware",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Cifrado",
+        "pregunta": "¿Cuál es el cifrado en el que se utiliza MÁS de una clave para descifrar y cifrar?",
+        "respuesta": "Cifrado Asimétrico",
+        "incorrecta1": "Cifrado simétrico",
+        "incorrecta2": "Cifrado Bilineal",
+        "incorrecta3": "Cifrado Extraño",
+        "imagen": "",
+        "objectFit": "cover"
+    }]
