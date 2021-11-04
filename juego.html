@@ -227,7 +227,11 @@ function escogerPreguntaAleatoria() {
   }
   npreguntas.push(n)
   preguntas_hechas++
-  
+  if(select_id("puntaje").innerHTML.includes("8", 2)){
+    alert('Fin del juego tu puntaje es: ' + select_id("puntaje").innerHTML);
+    document.location.href="/";
+
+  }
   escogerPregunta(n)
 }
 
@@ -292,10 +296,11 @@ function oprimir_btn(i) {
       break
     }
   }
+
   setTimeout(() => {
     reiniciar()
     suspender_botones = false
-  }, 3000);
+  }, 800);
 }
 
 // let p = prompt("numero")
