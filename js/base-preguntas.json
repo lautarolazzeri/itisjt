@@ -41,7 +41,7 @@
     },
     {
         "categoria": "Malwares",
-        "pregunta": "¿Que hace el virus de gusano?",
+        "pregunta": "¿Que hace el malware gusano?",
         "respuesta": "Se propaga por toda la computadora para infectarla por completo",
         "incorrecta1": "Copia todos tus archivos para venderlos",
         "incorrecta2": "Desinstala el paquete Office",
