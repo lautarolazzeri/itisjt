@@ -21,7 +21,7 @@
     },
     {
         "categoria": "Prevención",
-        "pregunta": "¿Que debo hacer evitar los malwares?",
+        "pregunta": "¿Que debo hacer para evitar los malwares?",
         "respuesta": "Todas son correctas",
         "incorrecta1": "Instalar un antivirus",
         "incorrecta2": "Fijarme las extensiones de los archivos",
