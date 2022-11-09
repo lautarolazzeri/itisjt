@@ -6,13 +6,13 @@ function Possibility() {
     return (
         <div className='gpt3__possibility section__padding' id='possibility'>
             <div className="gpt3__possibility-image">
-                <img src={possibilityImage} alt="possibility" />
+                <img src={possibilityImage} alt="instructora-martha-pugliesi" />
             </div>
             <div className="gpt3__possibility-content">
-                <h4>Request Early Access to Get Started</h4>
-                <h1 className='gradient__text'>The possibilities are beyond your imagination</h1>
-                <p>Yet bed any for travelling assistance indulgence unpleasing. Not thoughts all exercise blessing. Indulgence way everything joy alteration boisterous the attachment. Party we years to order allow asked of.</p>
-                <h4>Request Early Access to Get Started</h4>
+                <h4>Instructora oficial del Método Silva</h4>
+                <h1 className='gradient__text'>Licenciada Martha Pugliesi</h1>
+                <p>Me recibí de Maestra Normal Nacional y fuí maestra y directora de escuela hasta mi retiro. Me gradué en la Universidad del Salvador de licenciada en Artes y Técnicas Publicitarias, profesión que no ejercí porque me apasionó la docencia, primero en la actividad escolar, y luego como instructora del Método Silva desde el año 1979.</p>
+                <a href=""><h4>Saber más sobre mí</h4></a>
             </div>
         </div>
     )

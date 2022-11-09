@@ -6,15 +6,15 @@ function Cta() {
         <div>
             <div className="gpt3__cta">
                 <div className="gpt3__cta-content">
-                    <p>Request Early Access to Get Started</p>
-                    <h3>Register today & start exploring the endless possiblities.</h3>
+                    <p>¿Tienes dudas sobre el Metodo?</p>
+                    <h3>Envíanos un mensaje y te responderemos a la brevedad!</h3>
                 </div>
                 <div className="gpt3__cta-btn">
-                    <button type='button'>Get Started</button>
+                    <button type='button'> <a href=""> Enviar mensaje</a></button>
                 </div>
             </div>
         </div>
     )
 }
- 
+
 export default Cta

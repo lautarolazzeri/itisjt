@@ -4,29 +4,10 @@ import {google, slack, atlassian, dropbox, shopify} from './imports';
 
 
 function Brand() {
-return (
-<div className='gpt3__brand section__padding'>
-    <div>
-        <img src={google} alt="google" />
+    return (
+    <div className='title-brand'>
+        <t className='gradient__text brand-title'>Descubre el genio que llevas dentro</t>
     </div>
-
-    <div>
-        <img src={slack} alt="slack" />
-    </div>
-    
-    <div>
-        <img src={atlassian} alt="atlassian" />
-    </div>
-
-    <div>
-        <img src={dropbox} alt="dropbox" />
-    </div>
-
-    <div>
-        <img src={shopify} alt="shopify" />
-    </div>
-
-</div>
 )
 }
 
